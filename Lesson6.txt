@@ -16,7 +16,7 @@ public class Main {
         starSystem.printInformationAboutStarSystem();
         starSystem.getDoubleAge();
 
-        /////////////////////////////Планета
+       //////////////////////Планета
 
         Planet planet = new Planet(4.503E9, 0, 116, "Venus");
         planet.printInformationAboutPlanet();
