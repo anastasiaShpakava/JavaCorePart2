@@ -33,9 +33,6 @@ public class Main {
 }
 
 
-
-
-
 public class Tester {
 
     public String name;
