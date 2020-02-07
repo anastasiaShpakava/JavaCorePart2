@@ -28,7 +28,8 @@ public class Task3_1 {
         return (a % 2 == 0);
     }
 
-    public static int getPower(int a) {
+  
+  public static int getPower(int a) {
         return a * a;
     }
 
