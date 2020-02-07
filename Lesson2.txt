@@ -48,6 +48,7 @@ public class Main {
     }
 }
 //////////
+
 package com.company;
 
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
