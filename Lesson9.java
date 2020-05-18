@@ -1,4 +1,4 @@
-public class Main {
+public class Lesson9 {
     public static void main(String[] args) {
         Zoo zoo = new Zoo();
         ArrayList<String> animals = new ArrayList<>();
