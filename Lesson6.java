@@ -2,7 +2,7 @@ package com.company;
 
 import java.io.PrintStream;
 
-public class Main {
+public class Lesson6 {
 
     public static void main(String[] args) {
 
