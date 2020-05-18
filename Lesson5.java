@@ -1,6 +1,6 @@
 package com.company.Package1;
 
-public class Main {
+public class Lesson5 {
     public static void main(String[] args) {
 
         Tester tester = new Tester("Kate", "Smith", 6.5, "B1", 900);
