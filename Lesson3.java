@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task3_1 {
+public class Lesson3 {
     public static void main(String[] args) {
 
         System.out.println("Enter number:");
