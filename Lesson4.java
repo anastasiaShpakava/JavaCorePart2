@@ -1,8 +1,8 @@
 package com.company;
 
-public class Main {
+public class Lesson4 {
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
 Person person = new Person();
 person.setName("Kate");
 person.setSurname("Smith");
